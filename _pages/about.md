@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Peiyu Zhou (周佩宇). I am a senior undergraduate student at the **University of Electronic Science and Technology of China (UESTC)**, majoring in **Electrical Engineering (EE)**.
+My name is Peiyu Zhou. I am a senior undergraduate student at the **University of Electronic Science and Technology of China (UESTC)**.
 
 My primary research interest lies in **unsupervised clustering for single-cell multi-omics data**.
 

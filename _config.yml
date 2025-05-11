@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Senior undergraduate student at the University of Electronic Science and Technology of China (UESTC)."
   location         : "China"
-  employer         : "University of Electronic Science and Technology of China (UESTC)"
+  employer         : "UESTC"
   uri              : # URL
   email            : "2021190502038@std.uestc.edu.cn" 
 
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : https://github.com/GoldenPy
+  github           : GoldenPy
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

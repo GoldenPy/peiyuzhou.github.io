@@ -9,4 +9,4 @@ redirect_from:
 
 My name is **Peiyu Zhou**. I am a senior undergraduate student at the **University of Electronic Science and Technology of China (UESTC)**.
 
-My primary research interest lies in **unsupervised single-cell multi-omics clustering**.
+My current research interest lies in **unsupervised single-cell multi-omics clustering**.
